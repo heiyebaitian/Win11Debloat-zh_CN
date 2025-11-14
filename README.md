@@ -1,3 +1,6 @@
+# 本项目为Win11Debloat的简体中文翻译项目
+
+
 <div align="center" markdown="1">
    <sup>Special thanks to:</sup>
    <br>
